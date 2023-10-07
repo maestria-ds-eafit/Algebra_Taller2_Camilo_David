@@ -11,6 +11,7 @@ scipy = "*"
 scikit-learn = "*"
 plotly-express = "*"
 nbformat = "*"
+numpy = "*"
 
 [dev-packages]
 ipykernel = "*"
